@@ -75,14 +75,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 				<div class="youtube-player" data-id="kLrSkxSSE5g"></div>
 			</div>
 			<!-- akhir card 3 -->
-			<!-- card 4 -->
-			<div class="col m4 s12">
-				<div class="youtube-player" data-id="kLrSkxSSE5g"></div>
-			</div>
-			<div class="col m4 s12">
-				<div class="youtube-player" data-id="lZSoRvp3_do"></div>
-			</div>
-			<!-- akhir card 4 -->
+			
 		</div>
 
 	</div>
